@@ -1,2 +1,2 @@
 # javaScript-basics
-Utilities
+Only for practise javascript https://www.jschallenger.com/
